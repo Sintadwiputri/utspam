@@ -3,6 +3,7 @@ digunakan untuk menyimpan plan kegiatan sehari-hari setiap minggunya. terdapat
 
 # Dependencies Expo 
 expo-av
+
 expo/vector-icons
 
 expo-font
