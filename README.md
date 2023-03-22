@@ -7,5 +7,5 @@ expo-av
 expo/vector-icons
 
 expo-font
-# Link aplikasi
+# Link aplikasi dan tampilan aplikasi
 https://drive.google.com/drive/folders/1FW6pxyILqYqV9FeT_o5Oml2GvrhcGsWn?usp=sharing
